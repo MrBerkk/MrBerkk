@@ -28,5 +28,3 @@
 [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png' alt='discord' height='40'>](https://discord.gg/AwcXmGNyZ5)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBerkk&show_icons=true) 
-
-  
