@@ -2,8 +2,11 @@
 ![](https://media.giphy.com/media/H20uwbrYcIh0FUQSnP/giphy.gif)
 
 ⚡Im 22 Y.o And ım living in Turkey 
-⚡Actively working on fivem and web development.
-⚡I continue to improve myself in many areas…
+
+⚡Actively working on fivem and web development
+
+⚡I continue to improve myself in many areas
+
 ⚡You can find me in discord. See you later :)
 
 ⚡Skills: Html / Php / Css/ Js / Py / Lua
