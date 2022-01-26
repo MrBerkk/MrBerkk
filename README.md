@@ -1,5 +1,9 @@
-### Hi there 👋, my name is Berk - aka [MrBerk]
+
 ![](https://media.giphy.com/media/H20uwbrYcIh0FUQSnP/giphy.gif)
+ 
+### Hi there 👋, my name is Berk - aka [MrBerk]
+
+<br>
 
 ⚡Im 22 Y.o And ım living in Turkey 
 
@@ -13,8 +17,13 @@
 
 <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrBerkk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mb_development0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCuPeoRzSDcFTEedkCXBQnGA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mrberk.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/AwcXmGNyZ5)  
+![Profile views](https://gpvc.arturio.dev/MrBerkk)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBerkk&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/MrBerkk)  
+
+[<img src='https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png' alt='instagram' height='40'>](https://www.instagram.com/mb_development0/)  [<img src='https://iconarchive.com/download/i98467/dakirby309/simply-styled/YouTube.ico' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCuPeoRzSDcFTEedkCXBQnGA)  [<img src='https://emojipedia-us.s3.amazonaws.com/source/skype/289/globe-with-meridians_1f310.png' alt='website' height='40'>](https://mrberk.com) 
+[<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png' alt='discord' height='40'>](https://discord.gg/AwcXmGNyZ5)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBerkk&show_icons=true) 
+
+  
