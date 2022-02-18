@@ -27,4 +27,4 @@
 [<img src='https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png' alt='instagram' height='40'>](https://www.instagram.com/mb_development0/)  [<img src='https://iconarchive.com/download/i98467/dakirby309/simply-styled/YouTube.ico' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCuPeoRzSDcFTEedkCXBQnGA)  [<img src='https://emojipedia-us.s3.amazonaws.com/source/skype/289/globe-with-meridians_1f310.png' alt='website' height='40'>](https://mrberk.com) 
 [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png' alt='discord' height='40'>](https://discord.gg/AwcXmGNyZ5)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBerkk&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBerkk&show_icons=true&theme=github_dark) 
