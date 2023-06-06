@@ -1,3 +1,6 @@
+![](https://media.giphy.com/media/H20uwbrYcIh0FUQSnP/giphy.gif)
+
+
 # 💫 About Me:
 🔭 I’m currently working on fivem and web development<br>⚡ I continue to improve myself in many areas
 
@@ -23,7 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrBerkk&icon=0&color=11)](https://visitcount.itsvg.in)
-
-![](https://media.giphy.com/media/H20uwbrYcIh0FUQSnP/giphy.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
