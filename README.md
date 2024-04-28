@@ -29,3 +29,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake animation](https://github.com/MrBerkk/MrBerkk/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/MrBerkk/MrBerkk/blob/output/github-contribution-grid-snake.gif)
