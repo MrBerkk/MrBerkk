@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on fivem and web development<br>⚡ I continue to improve myself in many areas
+🔭 I’m currently working on fivem and web development<br>
 
 
 ## 🌐 Socials:
