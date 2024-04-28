@@ -1,5 +1,5 @@
 ![](https://media.giphy.com/media/H20uwbrYcIh0FUQSnP/giphy.gif)
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 # 💫 About Me:
 🔭 I’m currently working on fivem and web development<br>
