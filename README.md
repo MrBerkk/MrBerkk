@@ -27,4 +27,4 @@
 [![](https://visitcount.itsvg.in/api?id=MrBerkk&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!--![snake animation](https://github.com/MrBerkk/MrBerkk/blob/output/github-contribution-grid-snake2.svg)-->
-![snake gif](https://github.com/MrBerkk/MrBerkk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MrBerkk/MrBerkk/blob/output/github-contribution-grid-snake-dark.svg)
