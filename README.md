@@ -1,5 +1,4 @@
 ![](https://media.giphy.com/media/H20uwbrYcIh0FUQSnP/giphy.gif)
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 # 💫 About Me:
 🔭 I’m currently working on fivem and web development<br>
@@ -28,3 +27,5 @@
 [![](https://visitcount.itsvg.in/api?id=MrBerkk&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
