@@ -13,14 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=MrBerkk&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrBerkk&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBerkk&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### ✍️ Open Your Horizons 😊
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrBerkk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrBerkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Open Your Horizons 😊
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrBerkk&icon=0&color=11)](https://visitcount.itsvg.in)
