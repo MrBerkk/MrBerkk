@@ -9,7 +9,9 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MrBerkk&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/MrBerkk">
+      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FMrBerkk%2FMrBerkk.json%3Fcolor%3D00d2ff&style=for-the-badge&logo=eye&label=PROFILE%20VIEWS" alt="Profile Views" />
+    </a>
   </p>
 </div>
 
@@ -50,7 +52,7 @@ developer: Berk
 role: Owner & Full Stack Developer @ PixelSoft
 location: 127.0.0.1
 focus: Full-Stack Web Development, FiveM Systems & Game Scripting
-core_stack: [Lua, C#, .NET, JavaScript, TypeScript, React, PHP, MySQL, MSSQL]
+core_stack: [Lua, C#, .NET, JavaScript, TypeScript, React, PHP, PostgreSQL, MySQL, MSSQL]
 passions: Clean Code, High Performance, Game Servers & Web Apps
 current_projects: Next-Gen FiveM Scripts & Web Ecosystems
 ```
@@ -59,7 +61,7 @@ current_projects: Next-Gen FiveM Scripts & Web Ecosystems
 - 🎮 **Specialized in:** High-performance FiveM resource development, Lua game scripts, and modern UI design
 - 💻 **Full Stack Development:** Building web applications, REST APIs, and database-driven systems
 - ⚡ **Philosophy:** Clean, modular, and optimized code that delivers top-tier performance
-- 💬 **Ask me about:** Lua scripting, FiveM development, C# / .NET, React frontends & backend systems
+- 💬 **Ask me about:** Lua scripting, FiveM development, C# / .NET, React, PostgreSQL & backend systems
 
 ---
 
@@ -96,14 +98,14 @@ current_projects: Next-Gen FiveM Scripts & Web Ecosystems
 
 #### ⚙️ Backend, Databases & Infrastructure
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="44" height="44" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="44" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" title="MS SQL Server" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44" />
 </p>
 
 #### 📱 Mobile, Hardware & Tools
