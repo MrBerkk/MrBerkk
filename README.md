@@ -5,7 +5,7 @@
   <br/><br/>
   
   <a href="https://pixelsoft.tr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vcenter=true&width=550&lines=PixelSoft+Owner+%26+Lead+Developer;Full-Stack+Software+Engineer;FiveM+%26+Game+Script+Specialist;Crafting+High-Performance+Solutions+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vcenter=true&width=550&lines=PixelSoft+Owner+%26+Developer;Full-Stack+Developer;FiveM+%26+Game+Script+Specialist;Crafting+Modern+Web+%26+Game+Scripts+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -47,19 +47,19 @@
 
 ```yaml
 developer: Berk
-role: Owner & Lead Developer @ PixelSoft
+role: Owner & Full Stack Developer @ PixelSoft
 location: 127.0.0.1
 focus: Full-Stack Web Development, FiveM Systems & Game Scripting
-core_stack: [Lua, C#, .NET, JavaScript, TypeScript, React, PHP, MySQL]
-passions: Clean Architecture, High Performance, Community Driven Products
+core_stack: [Lua, C#, .NET, JavaScript, TypeScript, React, PHP, MySQL, MSSQL]
+passions: Clean Code, High Performance, Game Servers & Web Apps
 current_projects: Next-Gen FiveM Scripts & Web Ecosystems
 ```
 
-- 🏢 **Founder & Lead Developer** at **[PixelSoft](https://pixelsoft.tr)** & **[PXScripts](https://pxscripts.com)**
-- 🎮 **Specialized in:** High-performance FiveM resource architecture, game scripting, and custom UI design
-- 💻 **Full-Stack Proficiency:** Building scalable web applications, REST APIs, and microservices
-- 🚀 **Philosophy:** Clean, modular, and optimized code that delivers top-tier performance
-- 💬 **Ask me about:** Lua scripting, FiveM optimization, C# / .NET, React frontends & backend design
+- 👑 **Founder & Full Stack Developer** at **[PixelSoft](https://pixelsoft.tr)** & **[PXScripts](https://pxscripts.com)**
+- 🎮 **Specialized in:** High-performance FiveM resource development, Lua game scripts, and modern UI design
+- 💻 **Full Stack Development:** Building web applications, REST APIs, and database-driven systems
+- ⚡ **Philosophy:** Clean, modular, and optimized code that delivers top-tier performance
+- 💬 **Ask me about:** Lua scripting, FiveM development, C# / .NET, React frontends & backend systems
 
 ---
 
@@ -69,22 +69,52 @@ current_projects: Next-Gen FiveM Scripts & Web Ecosystems
 
 #### 💻 Core & Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,lua,js,ts,python,dart&theme=dark" alt="Programming Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="NuGet" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="44" height="44" />
 </p>
 
 #### 🎨 Frontend & UI Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,vite,html,css,tailwind,bootstrap,jquery&theme=dark" alt="Frontend & UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" alt="npm" width="44" height="44" />
 </p>
 
 #### ⚙️ Backend, Databases & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mssql,redis,linux,nginx&theme=dark" alt="Backend & Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="44" height="44" />
 </p>
 
 #### 📱 Mobile, Hardware & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,android,apple,arduino,raspberrypi,git&theme=dark" alt="Mobile, Hardware & Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="44" height="44" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="44" height="44" />
 </p>
 
 </div>
